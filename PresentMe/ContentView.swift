@@ -10,11 +10,11 @@ struct ContentView: View {
                     .frame(width: 120,
                            height: 120)
                     .clipShape(.circle)
-                Text("Ghadeer & Leen")
+                Text("Ghadeer")
                     .font(.title2)
                     .fontWeight(.semibold)
                     .padding()
-                
+                Text("Welcome!")
                 
             }
             .frame(maxWidth: .infinity, alignment: .center)

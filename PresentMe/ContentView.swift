@@ -21,7 +21,7 @@ struct ContentView: View {
             .listRowBackground(Color.clear)
             Section
             {
-                Text("I'm an AI Engineer. I love games and reading, it is like a me time, i like animels and have a cute Scottish cat named Mocha..        .")
+                Text("I'm an AI Engineer. I love games and reading, it is like a me time, i like animels and have a cute Scottish cat named Mocha")
                 
                 
                 
